@@ -5,5 +5,7 @@ This is my First Git "Project".
 Yikun Liang
 yikun@uchicago.edu
 
+## UChicago Student Resource Guide
+
 ## Features
 - simple practice
